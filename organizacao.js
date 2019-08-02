@@ -1,1 +1,1 @@
-console.log("Hello, aprendendo JavaScriot e Git.")
+console.log("Hello, aprendendo JavaScript, Git e Angular.")
